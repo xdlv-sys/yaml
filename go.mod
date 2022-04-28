@@ -1,4 +1,4 @@
-module "github.com/xdlv-sys/yaml.v3"
+module "github.com/xdlv-sys/yaml"
 
 require (
 	"gopkg.in/check.v1" v0.0.0-20161208181325-20d25e280405
